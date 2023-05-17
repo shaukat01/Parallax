@@ -4,7 +4,7 @@
 Netlify
 
 # visit & Short URL :
-https://sha-parallax.netlify.app/
+ https://sha-parallax.netlify.app/
 
 #Demo :
 ![Screenshot (124)](https://user-images.githubusercontent.com/86542840/236593912-0333cac0-27cf-4dbe-9cf6-6e269b4acc98.png)
