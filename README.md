@@ -1,7 +1,7 @@
 # About : 
 
 # App Hosted On :
-Netlify
+ Netlify
 
 # visit & Short URL :
 https://sha-parallax.netlify.app/
