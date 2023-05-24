@@ -1,4 +1,5 @@
 # About : 
+This Parallax Project studies parallax, the apparent shift in position of objects when viewed from different perspectives. It occurs due to the slight difference in the observer's line of sight.
 
 # App Hosted On :
  Netlify
