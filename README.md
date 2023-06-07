@@ -2,7 +2,7 @@
 This Parallax Project studies parallax, the apparent shift in position of objects when viewed from different perspectives. It occurs due to the slight difference in the observer's line of sight.Parallax measurements play a crucial role in the field of astrometry, which is the branch of astronomy dedicated to precisely measuring the positions and motions of celestial objects. The Parallax Project contributes to our understanding of the universe by providing data that helps determine the three-dimensional structure of the Milky Way galaxy and beyond.
 
 # App Hosted On :
- Netlify
+  Netlify
 
 # visit & Short URL :
 https://sha-parallax.netlify.app/
